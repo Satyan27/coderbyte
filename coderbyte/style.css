@@ -1,0 +1,22 @@
+#details{
+	width: 50%;
+	float: right;	
+	padding-left: 20px;
+	margin-top: 100px;
+}
+
+#cod{
+	padding-bottom: 15px;
+	padding-top: 15px; 
+	width: 50%;
+	padding-left: 50px;
+	border: 1px solid grey;
+}
+
+img{
+	margin-top: 100px;
+	margin-left: 50px;
+	width: 30%;
+	height: 420px;
+}
+
